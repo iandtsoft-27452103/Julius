@@ -44,7 +44,7 @@ First and second columns are players. Third column is game result. The following
 
 This software use the records on the internet download by myself.
 
-##Source Code Explanation
+## Source Code Explanation
 
 (1) analyze.jl : functions to analyze a record.
 
